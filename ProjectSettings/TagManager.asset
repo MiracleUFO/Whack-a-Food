@@ -6,7 +6,6 @@ TagManager:
   tags:
   - Bad
   - Sensor
-  - Easy Button
   layers:
   - Default
   - TransparentFX
